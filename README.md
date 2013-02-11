@@ -1,15 +1,12 @@
 # clj-module
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
+A dynamic code loading module system for Clojure, inspired by RequireJS.
 
 ## Usage
 
-FIXME
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Fluent Software Solutions Ltd.
 
 Distributed under the Eclipse Public License, the same as Clojure.
